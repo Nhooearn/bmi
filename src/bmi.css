@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    justify-items: center;
+    align-items: center;
+    background-color: lightcyan;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    justify-items: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: lightcyan;
+    border-color: lightcyan;
+}
+
